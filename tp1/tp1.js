@@ -43,7 +43,9 @@ function draw() {
 
     if (estadoP == 0) {
       a++;
-      if (a >= redA.length) a = 0;
+      if (a > 2) {
+      a = 0;
+}
       if (cambiaEstado()) {
         estado(1);
       }
@@ -51,7 +53,9 @@ function draw() {
 
     else if (estadoP == 1) {
       d++;
-      if (d >= redD.length) d = 0;
+      if (d > 2) {
+      d = 0;
+}
       if (cambiaEstado()) {
         estado(2);
       }
@@ -59,7 +63,9 @@ function draw() {
 
     else if (estadoP == 2) {
       c++;
-      if (c >= redC.length) c = 0;
+      if (c > 1) {
+      c = 0;
+}
       if (cambiaEstado()) {
         estado(0);
       }
