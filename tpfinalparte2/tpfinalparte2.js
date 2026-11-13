@@ -1,6 +1,6 @@
 /*
 TP FINAL PARTE 2
-IPMWI - COMISIÓN 2
+PMIW - COMISIÓN 2
 ALUMNOS:
 Celeste Geraldine Agorreca
 Blas Romero
