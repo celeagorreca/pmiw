@@ -4,7 +4,7 @@ PMIW - COMISIÓN 2
 ALUMNOS:
 Celeste Geraldine Agorreca
 Blas Romero
-Video explicativo:
+Video explicativo: https://youtu.be/XbXj8hAfh4Q
 */
 
 let juego;
